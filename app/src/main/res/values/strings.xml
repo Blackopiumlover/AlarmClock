@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Alarm Clock</string>
+    <string name="ring_ring">Ring Ring</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="alarm_title">Alarm Title</string>
+    <string name="recurring_alarm">Recurring Alarm</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="schedule_alarm_button_text">Schedule Alarm</string>
+    <string name="my_alarms">My Alarms</string>
+    <string name="add_alarm">Add Alarm</string>
+</resources>
